@@ -1,5 +1,7 @@
 
 """
+v01
+
 BRUK:
 ----------------------
 Gitt en mappe med bilder (src) flytt disse bildene sortert etter år og måned
